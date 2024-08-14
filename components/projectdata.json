@@ -1,0 +1,290 @@
+[
+    {
+        "id": "fb95ef82-f265-41dc-b462-71c67d88936d",
+        "location": "New Tina",
+        "project_name": "E-commerce Website Development",
+        "price": 400,
+        "duration": "2 months",
+        "tags": [
+            "Web Development",
+            "E-commerce",
+            "Payment Gateway"
+        ],
+        "description": "Development of a robust and scalable e-commerce platform with integrated payment gateways.",
+        "posted_time": "2024-08-14 01:41:03",
+        "proposals": 25,
+        "verified_payment": true
+    },
+    {
+        "id": "477cc59e-e808-473b-8442-c1cfd74db3b4",
+        "location": "West Lorraineside",
+        "project_name": "Mobile App for Online Learning",
+        "price": 1100,
+        "duration": "3 days",
+        "tags": [
+            "Mobile App",
+            "Online Learning",
+            "Live Classes"
+        ],
+        "description": "Design and development of a user-friendly mobile application for online learning with live classes.",
+        "posted_time": "2023-08-24 17:47:03",
+        "proposals": 14,
+        "verified_payment": true
+    },
+    {
+        "id": "6064c38f-8a49-42ce-b9ca-e83562385909",
+        "location": "Adamsmouth",
+        "project_name": "Corporate Website Redesign",
+        "price": 2600,
+        "duration": "8 weeks",
+        "tags": [
+            "UI/UX",
+            "Web Design",
+            "Mobile Optimization"
+        ],
+        "description": "Redesigning a corporate website to improve user experience and optimize for mobile devices.",
+        "posted_time": "2024-02-01 17:47:03",
+        "proposals": 1,
+        "verified_payment": false
+    },
+    {
+        "id": "7c3ac905-7e54-4e5b-bac4-9cd574cb80df",
+        "location": "Sarahberg",
+        "project_name": "Custom CRM Software",
+        "price": 4300,
+        "duration": "2 weeks",
+        "tags": [
+            "CRM",
+            "Sales",
+            "Customer Management"
+        ],
+        "description": "Development of a custom CRM software to manage customer interactions and improve sales processes.",
+        "posted_time": "2024-06-03 17:47:03",
+        "proposals": 18,
+        "verified_payment": true
+    },
+    {
+        "id": "efaa4c32-c9ce-4bf6-b405-3490198f3604",
+        "location": "South Andrew",
+        "project_name": "Graphic Design for Marketing Campaign",
+        "price": 1000,
+        "duration": "3 months",
+        "tags": [
+            "Graphic Design",
+            "Marketing",
+            "Advertising"
+        ],
+        "description": "Creating visually appealing graphic designs for a new marketing campaign.",
+        "posted_time": "2023-12-16 17:47:03",
+        "proposals": 25,
+        "verified_payment": true
+    },
+    {
+        "id": "b483d71e-fc81-4cf3-8c8d-4b4a04e79895",
+        "location": "Lake Corey",
+        "project_name": "Data Analysis Tool Development",
+        "price": 3000,
+        "duration": "17 days",
+        "tags": [
+            "Data Analysis",
+            "Tool Development",
+            "Reports"
+        ],
+        "description": "Development of a data analysis tool to process large datasets and generate insightful reports.",
+        "posted_time": "2024-06-09 17:47:03",
+        "proposals": 42,
+        "verified_payment": true
+    },
+    {
+        "id": "d62e4b72-0b96-4ec2-86c0-41fdb036f51b",
+        "location": "New Melissaburgh",
+        "project_name": "Cybersecurity Audit",
+        "price": 4200,
+        "duration": "7 days",
+        "tags": [
+            "Cybersecurity",
+            "Audit",
+            "Data Security"
+        ],
+        "description": "Comprehensive cybersecurity audit and recommendations for securing company data.",
+        "posted_time": "2023-10-06 17:47:03",
+        "proposals": 47,
+        "verified_payment": true
+    },
+    {
+        "id": "52871ad2-1eba-4f1c-8754-bf8af261db38",
+        "location": "South Shannonview",
+        "project_name": "Cloud Migration Project",
+        "price": 4000,
+        "duration": "12 days",
+        "tags": [
+            "Cloud",
+            "Migration",
+            "Infrastructure"
+        ],
+        "description": "Migrating on-premise systems to cloud infrastructure with minimal downtime.",
+        "posted_time": "2023-11-22 17:47:03",
+        "proposals": 21,
+        "verified_payment": false
+    },
+    {
+        "id": "b047d87c-6b7e-404c-b1a9-a74c0234d815",
+        "location": "Nashfurt",
+        "project_name": "Social Media Management Tool",
+        "price": 2800,
+        "duration": "23 days",
+        "tags": [
+            "Social Media",
+            "Management",
+            "Tool Development"
+        ],
+        "description": "Design and development of a tool to manage multiple social media accounts from a single dashboard.",
+        "posted_time": "2024-03-16 17:47:03",
+        "proposals": 18,
+        "verified_payment": true
+    },
+    {
+        "id": "7a93158b-2011-45f1-bbc6-9297b9b748cd",
+        "location": "Ericberg",
+        "project_name": "Logo and Branding for Startup",
+        "price": 500,
+        "duration": "7 weeks",
+        "tags": [
+            "Logo Design",
+            "Branding",
+            "Startup"
+        ],
+        "description": "Creating a unique logo and branding materials for a tech startup.",
+        "posted_time": "2024-08-09 17:47:03",
+        "proposals": 9,
+        "verified_payment": false
+    },
+    {
+        "id": "a12f4e3b-8cbe-4e4f-b8d5-90f0f0f2c2a2",
+        "location": "North Ashton",
+        "project_name": "Mobile App for Fitness Tracking",
+        "price": 1500,
+        "duration": "4 weeks",
+        "tags": [
+            "Mobile App",
+            "Fitness",
+            "Tracking"
+        ],
+        "description": "Development of a mobile app for tracking fitness activities and providing personalized workout plans.",
+        "posted_time": "2024-01-15 12:30:45",
+        "proposals": 22,
+        "verified_payment": true
+    },
+    {
+        "id": "b4f45c69-91d1-4be6-9008-708ec5f1836b",
+        "location": "West Marcoborough",
+        "project_name": "SEO Optimization for E-commerce Site",
+        "price": 2200,
+        "duration": "5 days",
+        "tags": [
+            "SEO",
+            "E-commerce",
+            "Optimization"
+        ],
+        "description": "SEO optimization services to improve the search engine ranking of an e-commerce website.",
+        "posted_time": "2023-11-10 09:20:12",
+        "proposals": 35,
+        "verified_payment": true
+    },
+    {
+        "id": "fba1b4de-8a0d-4b76-8361-f7bf1a7f12e1",
+        "location": "East Brian",
+        "project_name": "Custom ERP System Development",
+        "price": 4700,
+        "duration": "10 weeks",
+        "tags": [
+            "ERP",
+            "System Development",
+            "Business Management"
+        ],
+        "description": "Custom development of an ERP system to streamline business management processes.",
+        "posted_time": "2023-10-02 15:45:30",
+        "proposals": 17,
+        "verified_payment": false
+    },
+    {
+        "id": "aa9d034d-f1a1-4b26-9f87-54c2b9e1e8a1",
+        "location": "Port Samantha",
+        "project_name": "Website Maintenance and Support",
+        "price": 700,
+        "duration": "6 months",
+        "tags": [
+            "Website Maintenance",
+            "Support",
+            "Updates"
+        ],
+        "description": "Ongoing maintenance and support services for a corporate website, including regular updates.",
+        "posted_time": "2024-07-25 08:10:00",
+        "proposals": 11,
+        "verified_payment": true
+    },
+    {
+        "id": "7b13e249-0a4f-44b6-b1d4-7586f9f6ef0a",
+        "location": "Lake Isabella",
+        "project_name": "API Development for SaaS Platform",
+        "price": 3400,
+        "duration": "3 weeks",
+        "tags": [
+            "API Development",
+            "SaaS",
+            "Integration"
+        ],
+        "description": "Development of a set of APIs for integration with a SaaS platform.",
+        "posted_time": "2024-02-18 14:55:20",
+        "proposals": 27,
+        "verified_payment": true
+    },
+    {
+        "id": "b9b34e6b-9e50-40e0-939e-8a438a7fbd3d",
+        "location": "New Alexis",
+        "project_name": "Social Media Ad Campaign",
+        "price": 1200,
+        "duration": "2 weeks",
+        "tags": [
+            "Social Media",
+            "Advertising",
+            "Campaign"
+        ],
+        "description": "Creating and managing a social media advertising campaign to boost brand awareness.",
+        "posted_time": "2024-04-05 10:40:15",
+        "proposals": 15,
+        "verified_payment": true
+    },
+    {
+        "id": "c38d9f83-6ae4-4623-8f7c-63c98e823923",
+        "location": "East Amber",
+        "project_name": "AI Chatbot for Customer Support",
+        "price": 3800,
+        "duration": "8 weeks",
+        "tags": [
+            "AI",
+            "Chatbot",
+            "Customer Support"
+        ],
+        "description": "Development of an AI-driven chatbot to enhance customer support services.",
+        "posted_time": "2024-05-22 11:25:40",
+        "proposals": 13,
+        "verified_payment": false
+    },
+    {
+        "id": "d50a3f1e-09e0-4f10-b1f5-714c48294e72",
+        "location": "South Michaelton",
+        "project_name": "Blockchain-based Payment System",
+        "price": 4500,
+        "duration": "5 weeks",
+        "tags": [
+            "Blockchain",
+            "Payment System",
+            "Security"
+        ],
+        "description": "Implementation of a secure blockchain-based payment system for online transactions.",
+        "posted_time": "2024-06-14 16:30:50",
+        "proposals": 29,
+        "verified_payment": true
+    }
+]

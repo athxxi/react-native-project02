@@ -60,7 +60,7 @@ const ProjectFlatlist = ({searchText}) => {
                     </View>
                   </View>
                   <View style={styles.viewDescTags}>
-                      <Text style={styles.textDesc}>{item.description}</Text>
+                      <Text style={styles.textDesc} numberOfLines={2}>{item.description}</Text>
                       <Text style={styles.textTagsHeading}>Tags</Text>
                       <View horizontal={true} style={styles.View4}>
                         <View style={styles.searchTags}>
@@ -105,17 +105,16 @@ const styles = StyleSheet.create({
 },
 searchTags:{
   height: 25,
-  backgroundColor: 'rgba(0,0,0,0)',
   marginHorizontal: 2 ,
   borderRadius: 30,
   alignItems: 'center',
   justifyContent: 'center',
   borderRadius: 30,
-  borderWidth: 1,
+  backgroundColor: 'rgba(0,0,0,0.1)',
 },
 tagText:{
   fontSize: 12,
-  color: '#000',
+  color: 'rgba(0,0,0,0.65)',
   marginHorizontal: 10,
   marginBottom: 1,
   alignSelf: 'center'
@@ -132,7 +131,7 @@ tagText:{
       justifyContent: 'flex-start',
       alignItems: 'flex-start',
       marginHorizontal: 5,
-      marginBottom: 5
+      marginBottom: 5,
     },
     textDetails: {
     fontSize: 15,
@@ -142,12 +141,12 @@ tagText:{
     },
     textDetailsName: {
       fontSize: 12, 
-      color: '#070f2b',
+      color: 'rgba(0,0,0,0.5)',
       marginBottom: 10
       },
     viewdetails:{
       flexDirection: 'column',
-      borderColor: 'grey',
+      borderColor: 'rgba(0,0,0,0.2)',
       borderRadius: 10,
       borderWidth: 1,
       marginHorizontal: 5,
@@ -158,10 +157,12 @@ tagText:{
     }, 
     textTagsHeading:{
     marginTop: 5,
-    marginHorizontal: 20
+    marginHorizontal: 20,
+    color: 'rgba(0,0,0,0.65)',
     },
     textDesc:{
-    marginHorizontal: 20
+    marginHorizontal: 20,
+    color: 'rgba(0,0,0,0.65)',
     },
     textName:{
       alignSelf: 'flex-start',
@@ -171,6 +172,7 @@ tagText:{
     textPayment:{
       alignSelf: 'flex-start',
       fontSize: 12,
+      color: 'rgba(0,0,0,0.65)',
     },
     textLocation:{
       alignSelf: 'center',

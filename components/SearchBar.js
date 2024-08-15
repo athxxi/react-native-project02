@@ -14,6 +14,14 @@ const {width: screenWidth , height: screenHeight} = Dimensions.get('screen');
 const SearchBar = ({ searchText, setSearchText }) => {
     
 
+        const tags = [
+          { tagName: 'Development'},
+          { tagName: 'Mobile App'},
+          { tagName: 'Web'},
+          { tagName: 'Design'},
+          { tagName: 'UI'}
+        ];
+
     return(
         <View style={styles.View1}>
             <Text style={styles.textSearchBar}>Find Projects</Text>
@@ -34,20 +42,17 @@ const SearchBar = ({ searchText, setSearchText }) => {
             </View>
             <View style={styles.View3}>
                 <Text style={styles.text1}>Popular searches: </Text>
-                <ScrollView horizontal={true} style={styles.View4}>
-                    <TouchableOpacity style={styles.searchTags} onPress={() => setSearchText('Development')}>
-                        <Text style={styles.tagText}>Development</Text>
-                    </TouchableOpacity>
-                    <TouchableOpacity style={styles.searchTags} onPress={() => setSearchText('Mobile App')}>
-                        <Text style={styles.tagText}>Mobile App</Text>
-                    </TouchableOpacity>
-                    <TouchableOpacity style={styles.searchTags} onPress={() => setSearchText('Web')}>
-                        <Text style={styles.tagText}>Web</Text>
-                    </TouchableOpacity>
-                    <TouchableOpacity style={styles.searchTags} onPress={() => setSearchText('Design')}>
-                    <    Text style={styles.tagText}>Design</Text>
-                    </TouchableOpacity>
-                </ScrollView>
+                
+                <FlatList
+                    style={styles.View4}
+                    horizontal={true}
+                    data={tags}
+                    renderItem={({item}) => (
+                        <TouchableOpacity style={styles.searchTags} onPress={() => setSearchText(item.tagName)}>
+                            <Text style={styles.tagText}>{item.tagName}</Text>
+                        </TouchableOpacity>
+                        )}
+                    />
             </View>
         </View>
     );

@@ -87,8 +87,8 @@ const ProjectFlatlist = ({searchText}) => {
             <FlatList 
             data={filteredData}
             renderItem={renderItem}
-            keyExtractor={item => item.id}
             ListEmptyComponent={renderNull}
+            keyExtractor={item => item.id}
             style={styles.list}
             />
         </View>

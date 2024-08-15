@@ -157,6 +157,7 @@ tagText:{
     }, 
     textTagsHeading:{
     marginTop: 5,
+    fontSize: 13,
     marginHorizontal: 20,
     color: 'rgba(0,0,0,0.65)',
     },
